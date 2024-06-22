@@ -1,16 +1,6 @@
 # Multi-Threaded Pac-Man Using C++ and SFML
 
-Project Description
-
 This project involves the development of a multi-threaded version of the classic Pac-Man game using synchronization techniques to manage interactions between Pac-Man and multiple computer-simulated ghosts. The game is designed to handle data conflicts and ensure smooth gameplay, with each entity operating on its own thread.
-
-Programming Language
-
-C++
-
-Graphics Library
-
-SFML
 
 Features Implemented
 
